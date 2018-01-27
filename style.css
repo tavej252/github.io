@@ -73,7 +73,7 @@ header {
   
 
 
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 480px) {
  .mobileShow 
     {display: inline-block;
     position: relative;
@@ -131,7 +131,7 @@ img:hover {
   transition-delay: 0s;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 480px) {
   .grid {
     display: flex;
     flex-wrap: wrap;
@@ -142,7 +142,7 @@ img:hover {
   }
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 480px) {
   .cell {
     width: calc(33.3333% - 2rem);
   }
@@ -192,7 +192,7 @@ footer {
   
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 480px) {
   
 }
 .footer2 {
