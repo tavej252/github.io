@@ -114,22 +114,12 @@ header {
 
 .cell img {
   display: block;
- filter: grayscale(100%);
--webkit-filter:  grayscale(100%);
--moz-filter:  grayscale(100%);
--o-filter:  grayscale(100%);
--ms-filter:  grayscale(100%);
   transition:0s;
   z-index: 2;
   
 }
 
-img:hover {
-  filter: none;
-  -webkit-filter: none;
-    -webkit-transition-delay: 0s;
-  transition-delay: 0s;
-}
+
 
 @media screen and (min-width: 480px) {
   .grid {
@@ -207,12 +197,3 @@ footer {
   
 }
   }
-@media (hover:none) {
-    /* No hover support */
-}
-@media (hover:on-demand) {
-    /* Touch screen devices */
-}
-@media (hover:hover) {
-    /* Mouse devices */
-}
