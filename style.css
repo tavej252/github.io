@@ -207,3 +207,12 @@ footer {
   
 }
   }
+@media (hover:none) {
+    /* No hover support */
+}
+@media (hover:on-demand) {
+    /* Touch screen devices */
+}
+@media (hover:hover) {
+    /* Mouse devices */
+}
