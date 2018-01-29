@@ -38,12 +38,20 @@ html, body {
     font-family: 'Lato', sans-serif;
     color: #9B9B9B;
   
-
+@media screen and (min-width: 480px) {
+   height: 209px;
+    top: 35%;
+    left: 10%;
+    width: 60%;
+    position: relative;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+    color: #9B9B9B;
   
   
 }
 
-
+}
 
 
 a:link {
@@ -66,7 +74,7 @@ a:hover {
 
 h1 {
     font-family: 'Lato', sans-serif;
-    top: 1px;
+    top: 4px;
     left: 0px;
     color: #9B9B9B;
     width: 100%;
@@ -96,7 +104,7 @@ header {
     
 .header2 {
     height: 6px;
-    top: -53px;
+    top: -36px;
     width: 100%;
     position: fixed;
     z-index: 1;
