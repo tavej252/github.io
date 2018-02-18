@@ -40,7 +40,7 @@ html, body {
   
   
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 680px) {
   .pagecontent2 {
     width: calc(33.3333% - 2rem);
   }
@@ -57,7 +57,7 @@ html, body {
     color: #9B9B9B;
   
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 680px) {
   .pagecontent4 {
     width: calc(33.3333% - 2rem);
   }
