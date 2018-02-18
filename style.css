@@ -40,6 +40,10 @@ html, body {
   
   
 }
+@media screen and (min-width: 480px) {
+  .pagecontent2 {
+    width: calc(33.3333% - 2rem);
+  }
 
 .pagecontent3 {
     height: 129px;
@@ -52,10 +56,12 @@ html, body {
     font-size: 14px;
     color: #9B9B9B;
   
-  
-  
 }
-
+@media screen and (min-width: 480px) {
+  .pagecontent4 {
+    width: calc(33.3333% - 2rem);
+  }
+  
 .pagecontent4 {
     height: 129px;
     top: 154px;
