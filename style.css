@@ -40,10 +40,7 @@ html, body {
   
   
 }
-@media screen and (min-width: 680px) {
-  .pagecontent2 {
-    width: calc(33.3333% - 2rem);
-  }
+
 
 .pagecontent3 {
     height: 129px;
@@ -58,7 +55,7 @@ html, body {
   
 }
 @media screen and (min-width: 680px) {
-  .pagecontent4 {
+  .pagecontent3 {
     width: calc(33.3333% - 2rem);
   }
   
@@ -73,10 +70,14 @@ html, body {
     font-size: 14px;
     color: #9B9B9B;
     
-  
-  
 }
 
+  @media screen and (min-width: 680px) {
+  .pagecontent4 {
+    width: calc(33.3333% - 2rem);
+  }
+    
+    
 @media screen and (max-width: 1140px) {
   .pagecontent2 {visibility: hidden;}
   }
