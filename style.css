@@ -15,13 +15,11 @@ html, body {
 /*page stuff*/
 
 .pagecontent {
-  
-    height: 209px;
-    top: 35%;
+    height: 324px;
+    top: 68px;
     left: 20%;
     width: 60%;
-    position: fixed;
-    line-height: 1.5;
+    position: relative;
     font-family: 'Lato', sans-serif;
     color: #9B9B9B;
   
