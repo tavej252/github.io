@@ -15,8 +15,7 @@ html, body {
 /*page stuff*/
 
 .pagecontent {
-    height: 324px;
-    top: 68px;
+    top: -79px;
     left: 20%;
     width: 60%;
     position: relative;
