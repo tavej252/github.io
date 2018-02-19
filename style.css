@@ -41,53 +41,52 @@ html, body {
   
 }
 
-
 .pagecontent3 {
-    height: 129px;
-    top: 154px;
-    left: 20%;
+    height: 209px;
+    top: -298px;
+    left: 14%;
     width: 26%;
-    position: sticky;
+    position: absolute;
     line-height: 1.5;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     color: #9B9B9B;
-  
 }
-@media screen and (min-width: 680px) {
-  .pagecontent3 {
-    width: calc(33.3333% - 2rem);
-  }
-  
+ @media screen and (max-width: 1140px) {
+  .pagecontent3
+   {display: none;
+   position: absolute;}
+    
+}
+
+
 .pagecontent4 {
     height: 129px;
-    top: 154px;
+    top: -298px;
     left: 50%;
     width: 46%;
-    position: sticky;
+    position: absolute;
     line-height: 1.5;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     color: #9B9B9B;
+  }
+ @media screen and (max-width: 1140px) {
+  .pagecontent4
+    {display: none;
+   position: absolute;}
     
 }
-
-  @media screen and (min-width: 680px) {
-  .pagecontent4 {
-    width: calc(33.3333% - 2rem);
-  }
-    
-    
 @media screen and (max-width: 1140px) {
   .pagecontent2 {visibility: hidden;}
   }
 
 .imgContain {
-    height: 720px;
-    top: 400px;
-    left: 20%;
-    margin-right: 96px;
-    width: 60%;
+    height: 776px;
+    top: 294px;
+    left: 7%;
+    /* margin-right: 80px; */
+    width: 100%;
     position: absolute;
     line-height: 1.5;
     font-family: Lato, sans-serif;
@@ -102,8 +101,38 @@ html, body {
     height: 100%; 
     object-fit: contain;
 }
-
+@media screen and (max-width: 1140px) {
+ .imgContain img
+   {display:none;}
+    
+}
  
+.imgContain2 {
+    height: 776px;
+    top: 434px;
+    left: 19%;
+    /* margin-right: 80px; */
+    width: 100%;
+    position: relative;
+    line-height: 1.5;
+    font-family: Lato, sans-serif;
+    color: black;
+    z-index: 1;
+   
+    
+    
+  }
+
+.imgContain2 img {
+   width: 100%; 
+    height: 100%; 
+    object-fit: contain;
+}
+@media screen and (max-width: 1140px) {
+ .imgContain2 img
+   {display:none;}
+    
+}
 
 
 a:link {
@@ -146,7 +175,7 @@ header {
     z-index: 1;
     background-color: #EFEFEF;
     filter: blur(5px);
-    z-index: 1px;
+    z-index: 2;
 }
 
  @media screen and (max-width: 1140px) {
@@ -162,7 +191,7 @@ header {
     position: fixed;
     z-index: 1;
     background-color: #EFEFEF;
-    z-index: 1px;
+    z-index: 2;
 }
 
  @media screen and (min-width: 1140px) {
@@ -302,111 +331,17 @@ footer {
    font-family: 'Lato', sans-serif;
     font color: #9B9B9B;
   line-height: 19px;
-  z-index: 7px;
+  z-index: 3;
   
 }
   }
 
-/*gallery stuff*/
 
-* {box-sizing:border-box}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-/* Hide the images by default */
-.mySlides {
-    display: none;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor:pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
 
 /* VIDEO DIVS */
 
 .vid1 {
-    top: 198px;
+    top: 138px;
     left: 24px;
     width: 100%;
     position: absolute;
@@ -416,61 +351,61 @@ footer {
 
  @media screen and (max-width: 1340px) {
  .vid1 
-   {visibility: hidden;}
+  {display:none;}
     
 }
 
 .vid2 {
-    top: 924px;
-    left: 25px;
+    top: 806px;
+    left: 8px;
     width: 100%;
     position: absolute;
  
 }
 
- @media screen and (max-width: 1140px) {
+ @media screen and (max-width: 1400px) {
  .vid2 
-   {visibility: hidden;}
+   {display:none;}
     
 }
 
 .vid3 {
-    top: 1651px;
-    left: 25px;
+    top: 1589px;
+    left: 8px;
     width: 100%;
     position: absolute;
  
 }
 
- @media screen and (max-width: 1140px) {
+ @media screen and (max-width: 1400px) {
  .vid3 
-   {visibility: hidden;}
+   {display:none;}
     
 }
 
 .vid4 {
     top: 2377px;
-    left: 25px;
+    left: 7px;
     width: 100%;
-    position: absolute;
+    position: absolute;;
  
 }
 
  @media screen and (max-width: 1140px) {
  .vid4 
-   {visibility: hidden;}
+   {display:none;}
     
 }
 
 .vid5 {
-    top: 3104px;
-    left: 25px;
+    top: 3155px;
+    left: 8px;
     width: 100%;
     position: absolute;
 }
 
  @media screen and (max-width: 1140px) {
  .vid5 
-   {visibility: hidden;}
+   {display:none;}
     
 }
