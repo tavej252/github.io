@@ -1,3 +1,4 @@
+
 /* apply a neutral box layout mode*/
 body {
     background-color: #EFEFEF;
@@ -370,6 +371,6 @@ footer {
 }
 
 .cell2 {
-  margin: 59px -35px -118px;
+  margin: 59px -35px 2px;
 }
 
