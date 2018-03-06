@@ -3,12 +3,11 @@
 body {
     background-color: #EFEFEF;
     font-family: 'Lato', sans-serif;
-    font color: #9B9B9B;
+    color: #9B9B9B;
     position: relative;
     z-index: 1;
-    line-height: 9.0px;
-  margin:0px;
-padding:0px;
+    line-height: 23px;
+
 width:100%;
   
 }
@@ -303,11 +302,12 @@ header {
 }
 
 footer {
-  height: 25px;
-  width: 100%;
-  position: fixed;
-  bottom: 0px;
-  background-color: #FFE34C;
+    height: 25px;
+    width: 2000px;
+    position: fixed;
+    left: -164px;
+    bottom: 0px;
+    background-color: #FFE34C;
   
   
 }
@@ -379,4 +379,3 @@ footer {
 
 
 /*video */
-
