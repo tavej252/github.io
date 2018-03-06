@@ -6,6 +6,9 @@ body {
     position: relative;
     z-index: 1;
     line-height: 9.0px;
+  margin:0px;
+padding:0px;
+width:100%;
   
 }
 
@@ -308,19 +311,8 @@ footer {
 @media screen and (min-width: 480px) {
   
 }
-.footer2 {
-  height: 25px;
-  width: 100%;
-  position: fixed;
-  bottom: 0px;
-  background-color: #FFE34C;
-   font-family: 'Lato', sans-serif;
-    font color: #9B9B9B;
-  line-height: 19px;
-  z-index: 3;
+
   
-}
-  }
 
 
 
@@ -358,5 +350,26 @@ footer {
     position: absolute;
 }
 
+/* truck pics */
 
+@media screen and (min-width: 400px) {
+  .grid2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .cell2 {
+    width: 39%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .cell2 {
+    width: calc(146.3333% - 2rem);
+  }
+}
+
+.cell2 {
+  margin: 59px -35px -118px;
+}
 
