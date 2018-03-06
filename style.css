@@ -238,12 +238,15 @@ header {
   max-width: 100%;
 }
 
-.cell img {
+
+.cell img{
   display: block;
   transition:0s;
   z-index: 2;
   
 }
+
+
 
 
 
@@ -373,4 +376,7 @@ footer {
 .cell2 {
   margin: 59px -35px 2px;
 }
+
+
+/*video */
 
