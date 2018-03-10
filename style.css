@@ -357,4 +357,21 @@ footer {
 }
 
 
-/*video */
+/*email */
+
+.button {
+    background-color: #9B9B9B;
+ 
+    text-align: center;
+    padding: 10px;
+}
+
+
+.button a {
+    color: #ffffff;
+    display: block;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
