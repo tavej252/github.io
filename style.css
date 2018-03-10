@@ -284,7 +284,7 @@ footer {
     width: 2500px;
   max-width: 100%;
     position: fixed;
-   left: -1px;
+   left: 0px;
     bottom: 0px;
     background-color: #FFE34C;
   font-family: 'Lato', sans-serif;
