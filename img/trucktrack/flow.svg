@@ -1,0 +1,115 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710.57 468.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e6e7e8;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #e6e7e8;
+        stroke: #231f20;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 9.94px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #231f20;
+        font-family: Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 10.97px;
+      }
+
+      .cls-6 {
+        white-space: pre;
+      }
+    </style>
+  </defs>
+  <title>flow</title>
+  <polyline class="cls-1" points="376.41 48.27 376.41 110.49 376.41 368.55 415.29 369.77"/>
+  <path class="cls-1" d="M219.28,90.19L218.9,108Z"/>
+  <polyline class="cls-1" points="546.16 90.19 546.16 111.99 545.18 210.13 543.48 380.24 582.4 380.24"/>
+  <line class="cls-1" x1="219.09" y1="108.04" x2="219.47" y2="229.23"/>
+  <line class="cls-1" x1="582.4" y1="210.13" x2="545.18" y2="210.13"/>
+  <line class="cls-1" x1="582.4" y1="289.87" x2="543.48" y2="289.87"/>
+  <line class="cls-1" x1="130.46" y1="255.77" x2="151.18" y2="255.77"/>
+  <line class="cls-1" x1="126.17" y1="322.23" x2="153.2" y2="322.23"/>
+  <line class="cls-1" x1="126.17" y1="387.77" x2="153.2" y2="387.77"/>
+  <polyline class="cls-1" points="130.46 185.97 153.02 185.97 151.01 450.17 130.46 450.17"/>
+  <line class="cls-1" x1="151.18" y1="213.57" x2="173.22" y2="213.57"/>
+  <line class="cls-1" x1="376.41" y1="201.89" x2="409.43" y2="201.89"/>
+  <line class="cls-1" x1="376.41" y1="255.77" x2="415.29" y2="255.77"/>
+  <line class="cls-1" x1="219.28" y1="90.19" x2="546.16" y2="90.19"/>
+  <line class="cls-1" x1="376.41" y1="306.47" x2="415.29" y2="306.47"/>
+  <rect class="cls-2" x="308.93" y="0.5" width="143.43" height="51.49"/>
+  <polygon class="cls-2" points="294 154.69 164.04 154.69 164.04 108.04 219.09 108.04 294 108.04 294 154.69"/>
+  <polygon class="cls-2" points="447.8 156.77 317.83 156.77 317.83 110.11 372.88 110.11 447.8 110.11 447.8 156.77"/>
+  <g class="cls-3">
+    <text class="cls-4" transform="translate(344.18 126.6)">Customer Page</text>
+    <text class="cls-4" transform="translate(325.4 138.53)">(</text>
+    <text class="cls-4" transform="translate(328.71 138.53)">V</text>
+    <text class="cls-4" transform="translate(334.8 138.53)">endor mode does not </text>
+    <text class="cls-4" transform="translate(356.07 150.46)">show this)</text>
+  </g>
+  <rect class="cls-2" x="481.18" y="108.04" width="129.96" height="46.65"/>
+  <rect class="cls-2" x="164.04" y="190.24" width="129.96" height="46.65"/>
+  <rect class="cls-2" x="580.11" y="186.81" width="129.96" height="46.65"/>
+  <rect class="cls-2" x="580.11" y="268.86" width="129.96" height="46.65"/>
+  <rect class="cls-2" x="580.11" y="346.44" width="129.96" height="46.65"/>
+  <rect class="cls-2" x="409.43" y="341.11" width="80.95" height="46.65"/>
+  <rect class="cls-2" x="409.43" y="283.15" width="80.95" height="46.65"/>
+  <rect class="cls-2" x="409.43" y="175.08" width="79.07" height="46.65"/>
+  <rect class="cls-2" x="409.43" y="229.23" width="80.56" height="46.65"/>
+  <rect class="cls-2" x="0.5" y="162.65" width="129.96" height="46.65"/>
+  <g class="cls-3">
+    <text class="cls-5" transform="translate(352.6 15.83)">Homepage</text>
+    <text class="cls-5" transform="translate(349.35 29)">(M<tspan x="12.79" y="0">A</tspan></text>
+    <text class="cls-5" transform="translate(370.07 29)">P</text>
+    <text class="cls-6" transform="translate(377.2 29)"> VIEW)</text>
+    <text class="cls-5" transform="translate(317.52 42.17)">all pages lead back here</text>
+  </g>
+  <text class="cls-4" transform="translate(198.48 133.83)">Search Bar</text>
+  <g class="cls-3">
+    <text class="cls-4" transform="translate(191.02 217.28)">V</text>
+    <text class="cls-4" transform="translate(197.11 217.28)">endor Profile</text>
+  </g>
+  <g class="cls-3">
+    <text class="cls-4" transform="translate(41.17 182.23)">Directions</text>
+    <text class="cls-4" transform="translate(24.88 194.16)">(Opens map app)</text>
+  </g>
+  <rect class="cls-2" x="0.5" y="229.23" width="129.96" height="46.65"/>
+  <text class="cls-4" transform="translate(51.13 257.06)">About</text>
+  <text class="cls-4" transform="translate(437.19 202.5)">Feed</text>
+  <text class="cls-4" transform="translate(614.98 212.28)">Social Media</text>
+  <text class="cls-4" transform="translate(624.38 295.61)">Location</text>
+  <text class="cls-4" transform="translate(632.12 372.51)">Menu</text>
+  <g class="cls-3">
+    <text class="cls-4" transform="translate(510.82 122.81)">V</text>
+    <text class="cls-4" transform="translate(516.91 122.81)">endor Profile</text>
+    <text class="cls-4" transform="translate(484.58 134.74)">(Customer page does not </text>
+    <text class="cls-4" transform="translate(519.95 146.67)">show this)</text>
+  </g>
+  <text class="cls-4" transform="translate(427.6 307.77)">Favorites</text>
+  <text class="cls-4" transform="translate(429.94 257.06)">Reviews</text>
+  <text class="cls-4" transform="translate(431.95 368)">Friends</text>
+  <rect class="cls-2" x="0.5" y="298.91" width="129.96" height="46.65"/>
+  <text class="cls-4" transform="translate(52.5 325.99)">Menu</text>
+  <rect class="cls-2" x="0.5" y="360.85" width="129.96" height="46.65"/>
+  <text class="cls-4" transform="translate(45.58 387.39)">Reviews</text>
+  <rect class="cls-2" x="0.5" y="421.66" width="129.96" height="46.65"/>
+  <text class="cls-4" transform="translate(35.37 447.14)">Social Media</text>
+</svg>
