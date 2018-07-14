@@ -56,7 +56,12 @@ $(".tiptext").mouseover(function() {
     $(this).children(".description").hide();
 });
 
- $(document).ready(function($) {
-        // hide preloader when everthing in the document load
-        $('#preloader').css('display', 'none');
- });
+(function($){
+  'use strict';
+    $(window).on('load', function () {
+        if ($(".pre-loader").length > 0)
+        {
+            $(".pre-loader").fadeOut("slow");
+        }
+    });
+})(jQuery)
