@@ -342,19 +342,23 @@ body {
 }
 
 .cd-fixed-bg.cd-fixed-bg--7 {
-  background-image: url("../img/trucktrack/screens1.png");
+  background-image: url("../img/woke/screens1.png");
 }
 
 .cd-fixed-bg.cd-fixed-bg--8 {
-  background-image: url("../img/trucktrack/screens2.png");
+  background-image: url("../img/woke/screens2.png");
 }
 
 .cd-fixed-bg.cd-fixed-bg--9 {
-  background-image: url("../img/trucktrack/screens3.png");
+  background-image: url("../img/woke/screens3.png");
 }
 
 .cd-fixed-bg.cd-fixed-bg--10 {
-  background-image: url("../img/trucktrack/screens4.png");
+  background-image: url("../img/woke/screens4.png");
+}
+
+.cd-fixed-bg.cd-fixed-bg--10k{
+  background-image: url("../img/woke/screens5.png");
 }
 /*quest*/
 .cd-fixed-bg.cd-fixed-bg--11 {
@@ -464,7 +468,7 @@ body {
   }
 }
 .col {
-  margin: 7px;
+  margin: 10px;
 
 }
 
