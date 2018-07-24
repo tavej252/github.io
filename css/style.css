@@ -317,7 +317,7 @@ body {
 
 /*truck track*/
 .cd-fixed-bg.cd-fixed-bg--1 {
-  background-image: url("../img/track1.png");
+  background-image: url("../img/track1.jpg");
 }
 
 .cd-fixed-bg.cd-fixed-bg--2 {
@@ -338,27 +338,27 @@ body {
 
 /*woke*/
 .cd-fixed-bg.cd-fixed-bg--6 {
-  background-image: url("../img/woke/woke.png");
+  background-image: url("../img/woke/wokes.png");
 }
 
 .cd-fixed-bg.cd-fixed-bg--7 {
-  background-image: url("../img/woke/screens1.png");
+  background-image: url("../img/woke/screen1.jpg");
 }
 
 .cd-fixed-bg.cd-fixed-bg--8 {
-  background-image: url("../img/woke/screens2.png");
+  background-image: url("../img/woke/screen2.jpg");
 }
 
 .cd-fixed-bg.cd-fixed-bg--9 {
-  background-image: url("../img/woke/screens3.png");
+  background-image: url("../img/woke/screen3.jpg");
 }
 
 .cd-fixed-bg.cd-fixed-bg--10 {
-  background-image: url("../img/woke/screens4.png");
+  background-image: url("../img/woke/screen4.jpg");
 }
 
 .cd-fixed-bg.cd-fixed-bg--10k{
-  background-image: url("../img/woke/screens5.png");
+  background-image: url("../img/woke/screen5.jpg");
 }
 /*quest*/
 .cd-fixed-bg.cd-fixed-bg--11 {
