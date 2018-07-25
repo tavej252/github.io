@@ -366,19 +366,19 @@ body {
 }
 
 .cd-fixed-bg.cd-fixed-bg--12 {
-  background-image: url("../img/trucktrack/screens1.png");
+  background-image: url("");
 }
 
 .cd-fixed-bg.cd-fixed-bg--13 {
-  background-image: url("../img/trucktrack/screens2.png");
+  background-image: url("");
 }
 
 .cd-fixed-bg.cd-fixed-bg--14 {
-  background-image: url("../img/trucktrack/screens3.png");
+  background-image: url("");
 }
 
 .cd-fixed-bg.cd-fixed-bg--15 {
-  background-image: url("../img/trucktrack/screens4.png");
+  background-image: url("");
 }
 /*racial lenses*/
 
@@ -507,32 +507,3 @@ a {
     height: 100%;
 }
 
-/* preloader */
-
-.preloader {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #313131;
-  /* change if the mask should have another color then white */
-  z-index: 99;
-  /* makes sure it stays on top */
-}
-
-.status {
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  left: 50%;
-  /* centers the loading animation horizontally one the screen */
-  top: 50%;
-  /* centers the loading animation vertically one the screen */
-  background-image: url(https://raw.githubusercontent.com/niklausgerber/PreLoadMe/master/img/status.gif);
-  /* path to your loading animation */
-  background-repeat: no-repeat;
-  background-position: center;
-  margin: -100px 0 0 -100px;
-  /* is width and height divided by two */
-}
