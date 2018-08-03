@@ -365,7 +365,7 @@ body {
 }
 
 .cd-fixed-bg.cd-fixed-bg--12 {
-  background-image: url("");
+  background-image: url("../img/quest/cellphones.svg");
 }
 
 .cd-fixed-bg.cd-fixed-bg--13 {
@@ -482,6 +482,12 @@ body {
 h1 {
   color: #fac905;
   font-size: 3vh;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 1000;
 }
 
 a {
