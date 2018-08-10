@@ -280,6 +280,25 @@ body {
   }
 }
 
+.footer1 {
+    width: 100%;
+    max-width: 98%;
+    margin: 0vh auto 0 auto;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-size: 50px;
+    height: 236px;
+    padding: 100px;
+   
+}
+@media screen and (max-width: 700px) {
+  .footer1 {
+    width: 100%;
+    margin: 0vh auto 0 auto;
+      height: 136px;
+    padding: 40px;
+  }
+}
 /* parallex pages */
 
 .cd-fixed-bg {
