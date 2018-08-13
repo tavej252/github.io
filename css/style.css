@@ -193,6 +193,20 @@ body {
   
 }
 
+
+/*about me*/
+.me{
+      width: 1000px;
+    max-width: 98%;
+    margin: 18vh auto 0 auto;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    line-height: 41px;
+    padding: 17px;
+    text-align: left;
+    z-index: 1;
+ }
 /* thumbnails */
 
 *,
@@ -471,6 +485,13 @@ body {
   display: flex;
 }
 
+.row1 {
+  width: 90%;
+  max-width: 768px;
+  margin: 0 auto;
+  
+}
+
 .cd-scrolling-bg__content2 {
   width: 90%;
   max-width: 768px;
@@ -531,3 +552,20 @@ a {
     height: 100%;
 }
 
+/*email */
+
+.button {
+    background-color: #fac905;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.button a {
+    color: #ffffff;
+    display: block;
+    font-size: 14px;
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
