@@ -588,12 +588,12 @@ a {
 
 .responsive {
   width: 100%;
-  max-width: 500px;
+  max-width: 500%;
   height: auto;
 }
 
 .responsive2 {
   width: 100%;
-  max-width: 800px;
+  max-width: 800%;
   height: auto;
 }
