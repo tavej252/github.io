@@ -427,8 +427,18 @@ body {
   background-image: url("../img/race/racial3.jpg");
 }
 
+/*Zippity*/
+.cd-fixed-bg.cd-fixed-bg--19 {
+  background-image: url("../img/zip.png");
+}
 
+.cd-fixed-bg.cd-fixed-bg--20 {
+  background-image: url("../img/zip2.png");
+}
 
+.cd-fixed-bg.cd-fixed-bg--21 {
+  background-image: url("../img/ICSBlog/icsblog.png");
+}
 
 
 @media only screen and (min-width: 768px) {
@@ -493,6 +503,8 @@ body {
   
 }
 
+
+
 .cd-scrolling-bg__content2 {
   width: 90%;
   max-width: 768px;
@@ -511,6 +523,7 @@ body {
   margin: 10px;
 
 }
+
 
 
 @media all and (max-width:700px) { /* Change this value as per your needs */
@@ -569,4 +582,18 @@ a {
     font-family: 'Work Sans', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+/*image */
+
+.responsive {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.responsive2 {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
 }
