@@ -526,7 +526,7 @@ body {
 
 
 
-@media all and (max-width:700px) { /* Change this value as per your needs */
+@media all and (max-width:700px) { 
   .row {
     flex-direction: column;
   }
@@ -587,13 +587,11 @@ a {
 /*image */
 
 .responsive {
-  width: 100%;
-  max-width: 500%;
-  height: auto;
+ max-width: 100%;
+ height: auto;
 }
 
 .responsive2 {
-  width: 100%;
-  max-width: 800%;
-  height: auto;
+ max-width: 100%;
+ height: auto;
 }
